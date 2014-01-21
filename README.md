@@ -6,7 +6,7 @@ This is achieved by returning None instead of calling the function when it is ca
 
 Usage
 -------
-The usage is easy:
+The usage is as follows:
 ```python
 from limiter import *
 
